@@ -1,0 +1,55 @@
+* Visuals
+
+A CC0 Public Domain-licensed collection of stick figures, icons, and
+layouts. Feel free to use them in your notes!
+
+Index:
+- 2 Borders and banners
+- 3 Faces
+- 4 People
+- 5 Icons
+- 6 Nature
+
+Calendar
+- 12 2022 (year)
+- 7 August 2022
+- 8 September 2022
+- 9 Two columns with day numbers
+- 10 Three columns with day numbers
+
+Other layouts
+- 11 Six boxes
+  
+* Visual book notes
+
+Hi! These are some of my notes on the books I've read. Feel free to
+use them or share them under the CC-BY Creative Commons Attribution
+License. You can find more sketches at [[https://sketches.sachachua.com][sketches.sachachua.com]] and you
+can find my blog at [[https://sachachua.com][sachachua.com]]. Enjoy!
+
+Sketches are sorted alphabetically in the file. Here's a topical
+index. You may want to hide the toolbar (double-tap two fingers,
+double-tap one finger finger in page nav nav. page nav area.)
+
+- Philosophy
+  - Everything is F*cked - Mark Manson 2019
+  - Four Thousand Weeks - Oliver Burkeman 2021
+- Parenting
+  - How to Raise Kids who Aren't Assholes - Melinda Wenner Moyer 2021
+  - How to Stop Losing Your Sh*t with your kids - Carla Naumburg, PhD 2014
+  - Parenting Tough Kids - Mark Le Messurier 2007
+  - Raising Critical Thinkers - Julie Bogart 2022
+- Psychology
+  - Influence is Your Superpower - Zoe Chance 2022
+- Productivity
+  - The Bullet Journal Method - Ryder Carroll 2018
+
+* Chess
+[[file:chess.note]]
+
+... might be useful for playing a game of chess on the go?
+
+* Commands for copying  :no-export:
+
+[[shell:cp ~/Dropbox/Supernote/Note/Visuals.note visuals.note]]
+[[shell:cp ~/Dropbox/Supernote/Note/"visual book notes.note" .]]
